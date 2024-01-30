@@ -113,8 +113,8 @@ id: Monaco
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Monaco/
-markerFolder: ./Monaco//
+geojsonFolder: ./
+markerFolder: .//
 ```
 
 [name-en::Monaco] 
