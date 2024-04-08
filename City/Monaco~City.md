@@ -16,8 +16,10 @@ confidential: public
 There is no geographical distinction between the State and City of Monaco,
 although responsibilities of the government (State~level) and of the municipality (City~level) are different.
 
-[geo-lon::7.4] 
-[geo-lat::43.7] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.4] 
+[has_place_latitude::43.7] 
 [name::Monaco City] 
 State ::  
 Country :: [[Monaco]]  

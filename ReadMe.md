@@ -130,8 +130,10 @@ Continent :: [[Europe]]
 Capital :: [[Monaco]]  
 [Alcohol-l::] 
 [Language-Id::496] 
-[geo-lon::7.41] 
-[geo-lat::43.715] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.41] 
+[has_place_latitude::43.715] 
 
 
 
