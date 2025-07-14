@@ -38,10 +38,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Monaco/City/Monaco~City|Monaco~City]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Monaco/City/Monaco~City.public|Monaco~City.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Monaco/City/Monaco~City.internal|Monaco~City.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Monaco/City/Monaco~City.protect|Monaco~City.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Monaco/City/Monaco~City.private|Monaco~City.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Monaco/City/Monaco~City.personal|Monaco~City.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Monaco/City/Monaco~City.secret|Monaco~City.secret]] 
+
+### [Monaco~City.public](/_public/\Earth\Continent\Europe\Europe~West\Monaco\CityMonaco~City.public.md) 
+
+### [Monaco~City.internal](/_internal/\Earth\Continent\Europe\Europe~West\Monaco\CityMonaco~City.internal.md) 
+
+### [Monaco~City.protect](/_protect/\Earth\Continent\Europe\Europe~West\Monaco\CityMonaco~City.protect.md) 
+
+### [Monaco~City.private](/_private/\Earth\Continent\Europe\Europe~West\Monaco\CityMonaco~City.private.md) 
+
+### [Monaco~City.personal](/_personal/\Earth\Continent\Europe\Europe~West\Monaco\CityMonaco~City.personal.md) 
+
+### [Monaco~City.secret](/_secret/\Earth\Continent\Europe\Europe~West\Monaco\CityMonaco~City.secret.md)
+

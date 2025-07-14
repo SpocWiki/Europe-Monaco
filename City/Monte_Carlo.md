@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo|Monte_Carlo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.public|Monte_Carlo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.internal|Monte_Carlo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.protect|Monte_Carlo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.private|Monte_Carlo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.personal|Monte_Carlo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.secret|Monte_Carlo.secret]] 
+
+### [Monte_Carlo.public](/_public/\Earth\Continent\Europe\Europe~West\Monaco\CityMonte_Carlo.public.md) 
+
+### [Monte_Carlo.internal](/_internal/\Earth\Continent\Europe\Europe~West\Monaco\CityMonte_Carlo.internal.md) 
+
+### [Monte_Carlo.protect](/_protect/\Earth\Continent\Europe\Europe~West\Monaco\CityMonte_Carlo.protect.md) 
+
+### [Monte_Carlo.private](/_private/\Earth\Continent\Europe\Europe~West\Monaco\CityMonte_Carlo.private.md) 
+
+### [Monte_Carlo.personal](/_personal/\Earth\Continent\Europe\Europe~West\Monaco\CityMonte_Carlo.personal.md) 
+
+### [Monte_Carlo.secret](/_secret/\Earth\Continent\Europe\Europe~West\Monaco\CityMonte_Carlo.secret.md)
+
