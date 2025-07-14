@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~West\MonacoLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~West/Monaco/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~West\MonacoLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~West/Monaco/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~West\MonacoLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~West/Monaco/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~West\MonacoLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~West/Monaco/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~West\MonacoLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~West/Monaco/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~West\MonacoLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~West/Monaco/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~West/Monaco/License.secret.md)
 
