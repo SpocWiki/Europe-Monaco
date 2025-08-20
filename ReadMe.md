@@ -1,37 +1,38 @@
 ---
 location:
-- 43.715
-- 7.41
+  - 43.715
+  - 7.41
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26957
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Monaco
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Monaco
-- Mónaco
-- موناكو
-- 摩纳哥
-- Монако
-- the Principality of Monaco
-- el Principado de Mónaco
+  - Monaco
+  - Mónaco
+  - موناكو
+  - 摩纳哥
+  - Монако
+  - the Principality of Monaco
+  - el Principado de Mónaco
 Languages:
-- fr-MC
-- en
-- it
+  - fr-MC
+  - en
+  - it
 ---
 
 
