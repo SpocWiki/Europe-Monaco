@@ -110,7 +110,7 @@ although responsibilities of the government (State~level) and of the municipalit
 ```leaflet
 id: Monaco
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: .// 
 markerFolder: .//
