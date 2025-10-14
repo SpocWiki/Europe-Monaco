@@ -21,7 +21,7 @@ State ::
 Country :: [[Monaco]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
