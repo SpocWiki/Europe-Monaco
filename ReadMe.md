@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Monaco
+  - Mónaco
+  - موناكو
+  - 摩纳哥
+  - Монако
+  - the Principality of Monaco
+  - el Principado de Mónaco
+  - ReadMe
 location:
   - 43.715
   - 7.41
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Monaco
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Monaco
-  - Mónaco
-  - موناكو
-  - 摩纳哥
-  - Монако
-  - the Principality of Monaco
-  - el Principado de Mónaco
+publishDate: ''
+expiryDate: ''
 Languages:
   - fr-MC
   - en
