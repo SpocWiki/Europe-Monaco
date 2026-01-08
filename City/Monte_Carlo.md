@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32568
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.42
+dv_has_place_latitude: 43.73
+dv_name: Monte Carlo
+dv_Country: "[[../../Monaco]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.42] 
-[has_place_latitude::43.73] 
-[name::Monte Carlo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Monaco]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monte_Carlo](/_Standards/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo|Monte_Carlo]] 
 
-### [Monte_Carlo.public](/_public/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.public|Monte_Carlo.public]] 
 
-### [Monte_Carlo.internal](/_internal/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.internal|Monte_Carlo.internal]] 
 
-### [Monte_Carlo.protect](/_protect/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.protect|Monte_Carlo.protect]] 
 
-### [Monte_Carlo.private](/_private/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.private|Monte_Carlo.private]] 
 
-### [Monte_Carlo.personal](/_personal/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.personal|Monte_Carlo.personal]] 
 
-### [Monte_Carlo.secret](/_secret/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Monaco/City/Monte_Carlo.secret|Monte_Carlo.secret]] 
 

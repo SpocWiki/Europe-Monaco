@@ -14,18 +14,23 @@ tags:
 SpocWebEntityId: 32545
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.4
+dv_has_place_latitude: 43.7
+dv_name: Monaco City
+dv_Country: "[[../../Monaco]]"
 ---
 
 There is no geographical distinction between the State and City of Monaco,
 although responsibilities of the government (State~level) and of the municipality (City~level) are different.
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.4] 
-[has_place_latitude::43.7] 
-[name::Monaco City] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Monaco]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -42,17 +47,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Monaco~City](/_Standards/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City|Monaco~City]] 
 
-### [Monaco~City.public](/_public/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.public|Monaco~City.public]] 
 
-### [Monaco~City.internal](/_internal/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.internal|Monaco~City.internal]] 
 
-### [Monaco~City.protect](/_protect/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.protect|Monaco~City.protect]] 
 
-### [Monaco~City.private](/_private/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.private|Monaco~City.private]] 
 
-### [Monaco~City.personal](/_personal/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.personal|Monaco~City.personal]] 
 
-### [Monaco~City.secret](/_secret/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Monaco/City/Monaco~City.secret|Monaco~City.secret]] 
 
