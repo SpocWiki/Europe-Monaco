@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.42
 dv_has_place_latitude: 43.73
-dv_name: Monte Carlo
+dv_has_name_: Monte Carlo
 dv_Country: "[[../../Monaco]]"
 ---
 #is_a_/Place  
