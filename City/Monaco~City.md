@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.4
 dv_has_place_latitude: 43.7
-dv_has_name_: Monaco City
+dv_has_name: Monaco City
 dv_Country: "[[../../Monaco]]"
 ---
 
@@ -28,7 +28,7 @@ although responsibilities of the government (State~level) and of the municipalit
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 
