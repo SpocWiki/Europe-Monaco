@@ -1,39 +1,4 @@
 ---
-aliases:
-  - Monaco
-  - Mónaco
-  - موناكو
-  - 摩纳哥
-  - Монако
-  - the Principality of Monaco
-  - el Principado de Mónaco
-  - ReadMe
-location:
-  - 43.715
-  - 7.41
-type: Country
-tags:
-  - geo/Country
-SpocWebEntityId: 26957
-isDeleted: false
-confidential: public
-license: CC BY-SA 4.0
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
-title: Monaco
-linkTitle: ""
-keywords: ""
-layout: ""
-draft: false
-publishDate: ""
-expiryDate: ""
-Languages:
-  - fr-MC
-  - en
-  - it
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
 dv_ISO4217-currency_numeric: 978
@@ -62,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 摩纳哥公国
 dv_UNTERM_French_Formal: la Principauté de Monaco
 dv_UNTERM_Russian: Монако
 dv_UNTERM_Russian_Formal: Княжество Монако
-dv_Region_Name: "[[../../../Europe]]"
-dv_Intermediate_Region_Name: "[[ReadMe]]"
-dv_Sub-region_Name: "[[Western Europe]]"
+dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Intermediate_Region_Name: '[[Monaco]]'
+dv_Sub-region_Name: '[[Western Europe]]'
 dv_Region: 150
 dv_Sub-region: 155
 dv_Geoname-ID: 2993457
@@ -84,132 +49,861 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 492
 dv_ISO2: MC
 dv_ISO3: MCO
+dv_is_:
+  same_as:
+  - '[[../../../../WikiData/WD~Monaco,235|WD~Monaco,235]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~West/Monaco|Monaco]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~West/Monaco.public|Monaco.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~West/Monaco.internal|Monaco.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~West/Monaco.protect|Monaco.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~West/Monaco.private|Monaco.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~West/Monaco.personal|Monaco.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~West/Monaco.secret|Monaco.secret]]'
+dv_has_:
+  name_:
+    ab: Монако
+    ace: Monakô
+    aeb_arab: موناكو
+    af: Monaco
+    am: ሞናኮ
+    ami: Monaco
+    an: Múnegu
+    ang: Monaco
+    ann: Mọnako
+    anp: मोनाको
+    ar: موناكو
+    arc: ܡܘܢܐܩܘ
+    ary: موناكو
+    arz: موناكو
+    ast: Mónacu
+    av: Монако
+    avk: Monakoa
+    awa: मोनाको
+    az: Monako
+    azb: موناکو
+    ba: Монако
+    ban: Monako
+    bar: Monaco
+    bcl: Monako
+    be: Манака
+    be_tarask: Манака
+    bew: Monako
+    bg: Монако
+    bho: मोनाको
+    bi: Monako
+    bn: মোনাকো
+    bo: མོ་ན་ཁོ།
+    bpy: মোনাকো
+    br: Monako
+    bs: Monako
+    bxr: Монако
+    ca: Mònaco
+    cbk_zam: Mónaco
+    cdo: Monaco
+    ce: Монако
+    ceb: Monako
+    ch: Monaco
+    chr: ᎹᎾᎪ
+    ckb: مۆناکۆ
+    co: Monacu
+    crh: Monako
+    crh_latn: Monako
+    cs: Monako
+    csb: Mònakò
+    cu: Монако
+    cv: Монако
+    cy: Monaco
+    da: Monaco
+    dag: Monaco
+    de: Monaco
+    de-at: Monaco
+    de_ch: Monaco
+    diq: Monako
+    dsb: Monaco
+    dty: मोनाको
+    dv: މޮނާކޯ
+    ee: Monaco
+    el: Μονακό
+    en: Monaco
+    en_ca: Monaco
+    en_gb: Monaco
+    en-us: Monaco
+    eo: Monako
+    es: Mónaco
+    et: Monaco
+    eu: Monako
+    ext: Mónacu
+    fa: موناکو
+    ff: Monako
+    fi: Monaco
+    fo: Monako
+    fr: Monaco
+    frp: Monacô
+    frr: Monako
+    fur: Monaco
+    fy: Monako
+    ga: Monacó
+    gag: Monako
+    gcr: Monako
+    gd: Monaco
+    gl: Mónaco
+    glk: مؤناکؤ
+    gn: Mónako
+    gom: मोनॅको
+    gom-deva: मोनॅको
+    gom_latn: Monaco
+    got: "\U0001033C\U0001033F\U0001033D\U00010330\U0001033A\U00010349"
+    gpe: Monaco
+    grc: Μόνοικος
+    gsw: Monaco
+    gu: મોનૅકો
+    gv: Monaco
+    ha: Monaco
+    hak: Monaco
+    haw: Monako
+    he: מונקו
+    hi: मोनाको
+    hif: Monaco
+    hr: Monako
+    hsb: Monako
+    ht: Monako
+    hu: Monaco
+    hy: Մոնակո
+    hyw: Մոնաքօ
+    ia: Monaco
+    iba: Monako
+    id: Monako
+    ie: Mónaco
+    ig: Monako
+    ilo: Monaco
+    io: Monako
+    is: Mónakó
+    it: Monaco
+    iu: ᒫᓇᑯ
+    ja: モナコ
+    jam: Manako
+    jv: Monako
+    ka: მონაკო
+    kaa: Monako
+    kab: Munaku
+    kbd: Монако
+    kbp: Monakoo
+    kg: Monako
+    kk: Монако
+    kl: Monaco
+    km: ម៉ូណាកូ
+    kn: ಮೊನಾಕೊ
+    knc: Monaco
+    ko: 모나코
+    koi: Монако
+    krc: Монако
+    ku: Monako
+    kv: Монако
+    kw: Monako
+    ky: Монако
+    la: Monoecus
+    lad: Monako
+    lb: Monaco
+    lez: Монако
+    lfn: Monaco
+    lg: Monaco
+    li: Monaco
+    lij: Principatu de Mu̍negu
+    liv: Monako
+    lld: Monaco
+    lmo: Principad de Monegh
+    ln: Monaco
+    lo: ປະເທດໂມນາໂກ
+    lrc: موناکو
+    lt: Monakas
+    ltg: Monaks
+    lv: Monako
+    lzh: 摩納哥
+    mad: Monako
+    map_bms: Monako
+    mdf: Монако
+    mg: Monakô
+    mhr: Монако онлык
+    mi: Manako
+    min: Monako
+    mk: Монако
+    ml: മൊണാക്കോ
+    mn: Монако
+    mni: ꯃꯣꯅꯥꯀꯣ
+    mr: मोनॅको
+    ms: Monaco
+    mt: Monaco
+    my: မိုနာကိုနိုင်ငံ
+    myv: Монако Мастор
+    mzn: موناکو
+    na: Monako
+    nah: Monakoh
+    nan: Monaco
+    nap: Prencepato 'e Mònaco
+    nb: Monaco
+    nds: Monaco
+    nds_nl: Monaco
+    ne: मोनाको
+    new: मोनाको
+    nl: Monaco
+    nn: Monaco
+    nov: Monako
+    oc: Mónegue
+    olo: Monako
+    om: Monaakoo
+    or: ମୋନାକୋ
+    os: Монако
+    pa: ਮੋਨਾਕੋ
+    pag: Monaco
+    pam: Monako
+    pap: Monaco
+    pcd: Monaco
+    pfl: Monaggo
+    pi: मोनाको
+    pih: Monako
+    pl: Monako
+    pms: Prinsipà ëd Mònaco
+    pnb: موناکو
+    pnt: Μονακό
+    ps: موناکو
+    pt: Mónaco
+    pt_br: Mônaco
+    qu: Munaku
+    rm: Monaco
+    rmy: Monaco
+    ro: Monaco
+    roa-tara: Prengepáte de Monache
+    ru: Монако
+    rue: Монако
+    rup: Monaco
+    rw: Monako
+    sa: मोनाको
+    sah: Монако
+    sat: ᱢᱳᱱᱟᱠᱳ
+    sc: Mònaco
+    scn: Principatu di Mònacu
+    sco: Monaco
+    sd: موناڪو
+    se: Monaco
+    sgs: Muonaks
+    sh: Monako
+    shi: Munaku
+    shn: မိူင်းမူဝ်ႇၼႃႉၶူဝ်ႇ
+    si: මොනාකෝ
+    sk: Monako
+    sl: Monako
+    sm: Monaco
+    smn: Monaco
+    sms: Monaco
+    sn: Monaco
+    so: Monako
+    sq: Monako
+    sr: Монако
+    sr_ec: Монако
+    sr_el: Monako
+    srn: Monakokondre
+    ss: IMonakho
+    stq: Monaco
+    su: Monako
+    sv: Monaco
+    sw: Monako
+    szl: Můnako
+    szy: Monaco
+    ta: மொனாக்கோ
+    te: మొనాకో
+    tet: Mónaku
+    tg: Монако
+    th: ประเทศโมนาโก
+    tk: Monako
+    tl: Monaco
+    tly: Monako
+    to: Monako
+    tok: ma Monako
+    tr: Monako
+    trv: Monaco
+    ts: Monaco
+    tt: Монако
+    tum: Monaco
+    tw: Monako
+    udm: Монако
+    ug: موناكو
+    uk: Монако
+    ur: موناکو
+    uz: Monako
+    vec: Mònaco
+    vep: Monak
+    vi: Monaco
+    vls: Monaco
+    vo: Monakän
+    vro: Monaco
+    wa: Monaco
+    war: Monaco
+    wo: Monaako
+    wuu: 摩纳哥
+    xal: Монакин Нутг
+    xmf: მონაკო
+    yi: מאנאקא
+    yo: Mónakò
+    yue: 摩納哥
+    za: Monaco
+    zea: Monaco
+    zh: 摩納哥
+    zh_cn: 摩纳哥
+    zh_hans: 摩纳哥
+    zh_hant: 摩納哥
+    zh_hk: 摩納哥
+    zh_tw: 摩納哥
+    zu: i-Monaco
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Monaco
 dv_has_name_de: Monaco
 dv_Area-Total: 2
 dv_Area-Land: 0
-dv_Continent: "[[../../../Europe]]"
+dv_has_place_continent: '[[../../Europe|Europe]]'
 dv_VehicleCode: MC
-dv_Capital: "[[../Monaco]]"
+dv_Capital: '[[Monaco]]'
 dv_Language-Id: 496
-dv_is_a_: "[[../../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 7.41
 dv_has_place_latitude: 43.715
 dv_developed_developing_countries: Developed
+dv_is_same_as:
+- '[[../../../../WikiData/WD~Monaco,235|WD~Monaco,235]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~West/Monaco|Monaco]]'
+- '[[/_public/Earth/Continent/Europe/Europe~West/Monaco.public|Monaco.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~West/Monaco.internal|Monaco.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~West/Monaco.protect|Monaco.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~West/Monaco.private|Monaco.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~West/Monaco.personal|Monaco.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~West/Monaco.secret|Monaco.secret]]'
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Monaco
+aliases:
+- el Principado de Mónaco
+- i-Monaco
+- IMonakho
+- ma Monako
+- Manako
+- Monaako
+- Monaakoo
+- Monaco
+- Monacu
+- Monacó
+- Monacô
+- Monaggo
+- Monak
+- Monakas
+- Monako
+- Monakoa
+- Monakoh
+- Monakokondre
+- Monakoo
+- Monaks
+- Monakän
+- Monakô
+- Monoecus
+- Munaku
+- Muonaks
+- Mònaco
+- Mònakò
+- Mónaco
+- Mónacu
+- Mónako
+- Mónaku
+- Mónakò
+- Mónakó
+- Mónegue
+- Mônaco
+- Múnegu
+- Můnako
+- Mọnako
+- Prencepato 'e Mònaco
+- Prengepáte de Monache
+- Principad de Monegh
+- Principatu de Mu̍negu
+- Principatu di Mònacu
+- Prinsipà ëd Mònaco
+- the Principality of Monaco
+- Μόνοικος
+- Μονακό
+- Манака
+- Монакин Нутг
+- Монако
+- Монако Мастор
+- Монако онлык
+- Մոնակո
+- Մոնաքօ
+- מאנאקא
+- מונקו
+- مؤناکؤ
+- موناكو
+- موناکو
+- موناڪو
+- مۆناکۆ
+- ܡܘܢܐܩܘ
+- މޮނާކޯ
+- मोनाको
+- मोनॅको
+- মোনাকো
+- ਮੋਨਾਕੋ
+- મોનૅકો
+- ମୋନାକୋ
+- மொனாக்கோ
+- మొనాకో
+- ಮೊನಾಕೊ
+- മൊണാക്കോ
+- මොනාකෝ
+- ประเทศโมนาโก
+- ປະເທດໂມນາໂກ
+- མོ་ན་ཁོ།
+- မိုနာကိုနိုင်ငံ
+- မိူင်းမူဝ်ႇၼႃႉၶူဝ်ႇ
+- მონაკო
+- ሞናኮ
+- ᎹᎾᎪ
+- ᒫᓇᑯ
+- ម៉ូណាកូ
+- ᱢᱳᱱᱟᱠᱳ
+- モナコ
+- 摩納哥
+- 摩纳哥
+- ꯃꯣꯅꯥꯀꯣ
+- 모나코
+- "\U0001033C\U0001033F\U0001033D\U00010330\U0001033A\U00010349"
+has_id_wikidata: Q235
+location:
+- 43.715
+- 7.41
+type: Country
+tags:
+- geo/Country
+SpocWebEntityId: 26957
+isDeleted: false
+confidential: public
+license: CC BY-SA 4.0
+isReadOnly: false
+source: https://datahub.io/core/country-codes
+cssclasses:
+- Country
+publish: true
+title: Monaco
+linkTitle: ''
+keywords: ''
+layout: ''
+draft: false
+publishDate: ''
+expiryDate: ''
+Languages:
+- fr-MC
+- en
+- it
+icon: flag-mc
+member_of:
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[/_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[/_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[/_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]'
+- '[[/_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[/_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[/_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[/_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[/_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]'
+- '[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[/_Standards/WikiData/WD~Visa_Waiver_Program,45177|WD~Visa_Waiver_Program,45177]]'
+twinned_administrative_body:
+- '[[/_Standards/WikiData/WD~Rivne,156739|WD~Rivne,156739]]'
+- '[[/_Standards/WikiData/WD~Lucciana,677911|WD~Lucciana,677911]]'
+- '[[/_Standards/WikiData/WD~Kuwait_City,35178|WD~Kuwait_City,35178]]'
+flag: '[[/_Standards/WikiData/WD~flag_of_Monaco,159746|WD~flag_of_Monaco,159746]]'
+located_in_on_physical_feature:
+- '[[/_Standards/WikiData/WD~French_Riviera,182822|WD~French_Riviera,182822]]'
+- '[[/_Standards/WikiData/WD~Maritime_Alps,2451856|WD~Maritime_Alps,2451856]]'
+- '[[/_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+coat_of_arms: '[[/_Standards/WikiData/WD~coat_of_arms_of_Monaco,209204|WD~coat_of_arms_of_Monaco,209204]]'
+anthem: '[[/_Standards/WikiData/WD~Hymne_monégasque,336321|WD~Hymne_monégasque,336321]]'
+patron_saint: '[[/_Standards/WikiData/WD~Devota,469978|WD~Devota,469978]]'
+executive_body: '[[/_Standards/WikiData/WD~Council_of_Government,593887|WD~Council_of_Government,593887]]'
+described_by_source:
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[/_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+basic_form_of_government:
+- '[[/_Standards/WikiData/WD~hereditary_monarchy,849242|WD~hereditary_monarchy,849242]]'
+- '[[/_Standards/WikiData/WD~constitutional_monarchy,41614|WD~constitutional_monarchy,41614]]'
+highest_point: '[[/_Standards/WikiData/WD~Chemin_des_Révoires,1069352|WD~Chemin_des_Révoires,1069352]]'
+electrical_plug_type:
+- '[[/_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[/_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[/_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]'
+- '[[/_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126|WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]'
+legislative_body: '[[/_Standards/WikiData/WD~National_Council,1127198|WD~National_Council,1127198]]'
+history_of_topic: '[[/_Standards/WikiData/WD~history_of_Monaco,1160498|WD~history_of_Monaco,1160498]]'
+office_held_by_head_of_government: '[[/_Standards/WikiData/WD~Minister_of_State_of_Monaco,1655971|WD~Minister_of_State_of_Monaco,1655971]]'
+head_of_government: '[[/_Standards/WikiData/WD~Isabelle_Berro-Amadeï,1673628|WD~Isabelle_Berro-Amadeï,1673628]]'
+geography_of_topic: '[[/_Standards/WikiData/WD~geography_of_Monaco,1815375|WD~geography_of_Monaco,1815375]]'
+demographics_of_topic: '[[/_Standards/WikiData/WD~demographics_of_Monaco,2345347|WD~demographics_of_Monaco,2345347]]'
+office_held_by_head_of_state: '[[/_Standards/WikiData/WD~Prince_of_Monaco,2457774|WD~Prince_of_Monaco,2457774]]'
+economy_of_topic: '[[/_Standards/WikiData/WD~economy_of_Monaco,2739577|WD~economy_of_Monaco,2739577]]'
+highest_judicial_authority: '[[/_Standards/WikiData/WD~Supreme_Court_of_Monaco,2743465|WD~Supreme_Court_of_Monaco,2743465]]'
+culture: '[[/_Standards/WikiData/WD~culture_of_Monaco,3007217|WD~culture_of_Monaco,3007217]]'
+motto: '[[/_Standards/WikiData/WD~Deo_juvante,3023442|WD~Deo_juvante,3023442]]'
+has_characteristic: '[[/_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
+followed_by: '[[/_Standards/WikiData/WD~Free_Cities_of_Menton_and_Roquebrune,3559284|WD~Free_Cities_of_Menton_and_Roquebrune,3559284]]'
+instance_of: '[[/_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+coextensive_with: '[[/_Standards/WikiData/WD~Commune_of_Monaco,3685392|WD~Commune_of_Monaco,3685392]]'
+contains_the_administrative_territorial_entity: '[[/_Standards/WikiData/WD~Commune_of_Monaco,3685392|WD~Commune_of_Monaco,3685392]]'
+Wikimedia_outline: '[[/_Standards/WikiData/WD~outline_of_Monaco,7112365|WD~outline_of_Monaco,7112365]]'
+topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Monaco,8210047|WD~Portal_Monaco,8210047]]'
+different_from: '[[/_Standards/WikiData/WD~Monaco,12304133|WD~Monaco,12304133]]'
+driving_side: '[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+emergency_phone_number:
+- '[[/_Standards/WikiData/WD~17,25648842|WD~17,25648842]]'
+- '[[/_Standards/WikiData/WD~18,25648843|WD~18,25648843]]'
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q27103296,27103296|WD~Q27103296,27103296]]'
+located_in_time_zone:
+- '[[/_Standards/WikiData/WD~Europe_Monaco,63286002|WD~Europe_Monaco,63286002]]'
+- '[[/_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
+- '[[/_Standards/WikiData/WD~Central_European_Time,25989|WD~Central_European_Time,25989]]'
+coordinates_of_northernmost_point: Point(7.43 43.75)
+demonym:
+- موناكي
+- موناكية
+- موناكيين
+- موناكيات
+- Monacach
+- মোনাকীয়
+- monegasc
+- monegasca
+- Μονεγάσκα
+- Μονεγάσκες
+- Μονεγάσκοι
+- Μονεγάσκος
+- Monacan
+- Monégasque
+- Monakano
+- monegasca
+- monegasco
+- Monégasque
+- מונגאסקי
+- מונגאסקית
+- monacói
+- Monakano
+- monegasca
+- monegasche
+- monegaschi
+- monegasco
+- monegasc
+- monegască
+- monegasci
+- monegasca
+- monegasche
+- monegaschi
+- monegasco
+- Monakänan
+- Monegasque
+- موناكي
+- موناكية
+- موناكيون
+- monegasca
+- monegascu
+ISNI: 121814116
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20von%20Monaco-La%20Turbie.jpg
+MeSH_tree_code: Z01.542.616
+inception: 1297-01-15
+has_time_started: 1297-01-15
+diplomatic_relation:
+- '[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[/_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[/_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
+- '[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[/_Standards/WikiData/WD~Italy,38|WD~Italy,38]]'
+- '[[/_Standards/WikiData/WD~France,142|WD~France,142]]'
+- "[[/_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+shares_border_with:
+- '[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[/_Standards/WikiData/WD~France,142|WD~France,142]]'
+official_religion:
+- '[[/_Standards/WikiData/WD~Catholicism,1841|WD~Catholicism,1841]]'
+- '[[/_Standards/WikiData/WD~Catholic_Church,9592|WD~Catholic_Church,9592]]'
+present_in_work: '[[/_Standards/WikiData/WD~Civilization_V,2385|WD~Civilization_V,2385]]'
+head_of_state: '[[/_Standards/WikiData/WD~Albert_II,_Prince_of_Monaco,3910|WD~Albert_II,_Prince_of_Monaco,3910]]'
+lowest_point: '[[/_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
+located_in_or_next_to_body_of_water:
+- '[[/_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
+- '[[/_Standards/WikiData/WD~Ligurian_Sea,42820|WD~Ligurian_Sea,42820]]'
+part_of: '[[/_Standards/WikiData/WD~Western_Europe,27496|WD~Western_Europe,27496]]'
+continent: '[[/_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+rural_population: 0
+language_used: '[[/_Standards/WikiData/WD~French,150|WD~French,150]]'
+official_language: '[[/_Standards/WikiData/WD~French,150|WD~French,150]]'
+country: '[[/_Standards/WikiData/WD~Monaco,235|WD~Monaco,235]]'
+age_of_majority: 21
+mains_voltage: 230
+annual_number_of_weddings: 86
+VAT_rate: 19.6
+area: 2.02
+top_level_Internet_domain: '[[/_Standards/WikiData/WD~.mc,42020|WD~.mc,42020]]'
+female_population:
+- 18890
+- 18596
+- 18704
+- 18827
+social_media_followers: 37160
+population: 38350
+mobile_country_code: 212
+maritime_identification_digits: 254
+licence_plate_code: MC
+ISO_3166_1_alpha_2_code: MC
+WIPO_ST_3: MC
+IAB_code: 1356
+FIPS_10_4_countries_and_regions_: MN
+male_population:
+- 17872
+- 17982
+- 18095
+- 18145
+ISO_3166_1_numeric_code: 492
+M49_code: 492
+urban_population:
+- 36469
+- 36686
+- 36922
+- 37034
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Monaco.svg
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Monaco.svg
+Dewey_Decimal_Classification: 2--44949
+postal_code: 98000
+Commons_category: Monaco
+subreddit: Monaco
+hashtag: Monaco
+Commons_gallery: Monaco
+OmegaWiki_Defined_Meaning: 8078
+ISO_3166_1_alpha_3_code: MCO
+ITU_letter_code: MCO
+PM20_geo_code: A37
+motto_text:
+- Easy going Monaco
+- Deo Juvante
+official_name:
+- Fort-Hercule
+- la Principauté de Monaco
+- Monaco
+- Múnegu
+- Furstendömet Monaco
+native_label:
+- Monaco
+- Principauté de Monaco
+- Prinçipato de Mónego
+- Prinçipatu de Mu̍negu
+- Principat de Mónegue
+name_in_native_language: Principauté de Monaco
+short_name: "\U0001F1F2\U0001F1E8"
+coordinates_of_easternmost_point: Point(7.43981095 43.74675503)
+coordinate_location: Point(7.42 43.731111111)
+coordinates_of_westernmost_point: Point(7.4090906 43.72955435)
+coordinates_of_southernmost_point: Point(7.41853617 43.72474356)
+INSEE_countries_and_foreign_territories_code: 99138
+IOC_country_code: MON
+INSEE_municipality_code: 6900
+U_S_National_Archives_Identifier: 10044738
+nominal_GDP: 8596156574
+geoshape: http://commons.wikimedia.org/data/main/Data:Monaco/Monaco.map
+aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Monaco%20%2801%29.jpg
+pronunciation_audio:
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Monaco.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Monaco.wav
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Monaco%20banner1.jpg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Monaco%20on%20the%20globe%20%28Europe%20centered%29.svg
+official_website:
+- https://www.gouv.mc
+- https://www.mairie.mc
+country_calling_code: 377
+GS1_country_code: 300-379
+X_Twitter_username: gvtMonaco
+Facebook_username: GvtMonaco
+IPA_transcription: mɐˈnakə
+GitHub_topic: monaco
+CIVICUS_Monitor_country_entry: monaco
+Krugosvet_article: strany_mira/MONAKO.html
+Libris_URI: tr5762wc3td6mvt
+Unicode_character: 🇲🇨
 ---
 
+# [[Monaco]] 🇲🇨 
+
+## #has_/properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
-ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
-ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
-ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
-ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
 
-Telephone = `=this.dv_Telephone` 
+Telephone = `=this.dv_Telephone`
 
-Global = `=this.dv_Global` 
-Global_Name = `=this.dv_Global_Name` 
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
 
-name = `=this.dv_has_name` 
-[	has_name_en	 :: Monaco ] 
-has_name_es = `=this.dv_has_name_es` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_cn = `=this.dv_has_name_cn` 
-has_name_ar = `=this.dv_has_name_ar` 
-has_name_ru = `=this.dv_has_name_ru` 
+name = `=this.dv_has_name`
+[	has_name_en	 :: Monaco ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
 
-CLDR_display_name = `=this.dv_CLDR_display_name` 
+CLDR_display_name = `=this.dv_CLDR_display_name`
 
-UNTERM_English = `=this.dv_UNTERM_English` 
-UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
-UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
-UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
-UNTERM_French = `=this.dv_UNTERM_French` ] 
-UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
-UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
-UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
-UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
-UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
-UNTERM_Russian = `=this.dv_UNTERM_Russian` 
-UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French` ]
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
 Region_Name = `=this.dv_Region_Name`
 Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
 Sub-region_Name = `=this.dv_Sub-region_Name`
 
-Region = `=this.dv_Region` 
+Region = `=this.dv_Region`
 [	Intermediate_Region = `=this.dv_Region`
-Sub-region = `=this.dv_Sub-region` 
+Sub-region = `=this.dv_Sub-region`
 
-Geoname-ID = `=this.dv_Geoname-ID` 
-FIPS = `=this.dv_FIPS` 
-FIFA = `=this.dv_FIFA` 
-IOC = `=this.dv_IOC` 
-MARC = `=this.dv_MARC` 
-GAUL = `=this.dv_GAUL` 
-[	WMO	 ::  ] 
-ITU = `=this.dv_ITU` 
-DS = `=this.dv_DS` 
-TLD = `=this.dv_TLD` 
-EDGAR = `=this.dv_EDGAR` 
-M49 = `=this.dv_M49` 
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+[	WMO	 ::  ]
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-is_independent = `=this.dv_is_independent` 
-developed_developing_countries = `=this.dv_developed_developing_countries` 
-[	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 ::  ] 
-[	Small_is_a_ = `=this.dv_is_a_`
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_is_a = `=this.dv_is_a_`
 
-ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
-
-
-
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 
 There is no geographical distinction between the State and City of Monaco,
 although responsibilities of the government (State~level) and of the municipality (City~level) are different.
 
-ISO2 = `=this.dv_ISO2` 
+ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
+
+is_a = `=this.dv_is_a_`
+
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
+
+[[Monaco/ReadMe|ReadMe]] 
+
+## #has_/map  
+
 ```leaflet
 id: Monaco
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: .// 
-markerFolder: .//
+geojsonFolder: ./Monaco/
+markerFolder: ./Monaco//
+coordinates: [[Monaco]] 
+markerFile: [[Monaco]] 
+defaultZoom: 7 
 ```
 
-[has_name_en::Monaco] 
-has_name_de = `=this.dv_has_name_de` 
-![[Coat_of_arms_of_Monaco.svg|650]] 
-![[Anthem-Montenegro.mp3]] 
-![[Flag_of_Monaco.svg|350]] 
+### #has_map_/topologic 
 
-Area-Total = `=this.dv_Area-Total` 
-Area-Land = `=this.dv_Area-Land` 
-Continent = `=this.dv_Continent`
-VehicleCode = `=this.dv_VehicleCode` 
+```leaflet
+id: Monaco_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 7
+geojsonFolder: ./Monaco//
+markerFolder: ./Monaco/
+coordinates: [[Monaco]] 
+markerFile: [[Monaco]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+[has_name_en::Monaco]
+has_name_de = `=this.dv_has_name_de`
+![[Coat_of_arms_of_Monaco.svg|650]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3|Anthem-Montenegro.mp3]]
+![[Flag_of_Monaco.svg|350]]
+
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-[Alcohol-l::] 
-Language-Id = `=this.dv_Language-Id` 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
-has_place_longitude = `=this.dv_has_place_longitude` 
-has_place_latitude = `=this.dv_has_place_latitude` 
+[Alcohol-l::]
+Language-Id = `=this.dv_Language-Id`
+
+
+
+ is_a = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+
+
+## #has_/text_of_/abstract 
+
+> **Monaco**, officially the Principality of Monaco, is a sovereign city-state and microstate on the French Riviera a few kilometres west of the Italian region of Liguria, in Western Europe, on the Mediterranean Sea. It is a semi-enclave bordered by France to the north, east and west. The principality is home to nearly 39,000 residents as of the 2020s, of whom about 9,500 are Monégasque nationals. It is recognised as one of the wealthiest and most expensive places in the world. The official language of Monaco is French. Monégasque, English and Italian are also spoken and understood by many residents.
+>
+> With an area of 2.08 km2 (0.80 sq mi), Monaco is the second-smallest sovereign state in the world, after Vatican City. Its population of 38,367 in 2023 makes it the most densely populated sovereign state. Monaco has the world's shortest national coastline: 3.83 km (2.38 mi). The principality is about 15 km (9.3 mi) from the border with Italy and consists of nine administrative wards, the largest of which is Monte Carlo.
+>
+> The principality is governed under a form of constitutional monarchy, with Prince Albert II as head of state, who wields political power despite his constitutional status. The prime minister, who is the head of government, can be either a Monégasque or French citizen; the monarch consults with the Government of France before an appointment. Key members of the judiciary are detached French magistrates. The House of Grimaldi has ruled Monaco, with brief interruptions, since 1297. The state's sovereignty was officially recognised by the Franco-Monégasque Treaty of 1861, with Monaco becoming a full United Nations voting member in 1993. Despite Monaco's independence and separate foreign policy, its defence is the responsibility of France, besides maintenance of two small military units.
+>
+> Monaco's economic development was spurred in the late 19th century with the opening of the state's first casino, the Monte Carlo Casino, and a rail connection to Paris. Monaco's mild climate, scenery, and gambling facilities have contributed to its status as a tourist destination and recreation centre for the rich. Monaco has become a major banking centre and sought to diversify into the services sector and small, high-value-added, non-polluting industries. Monaco is a tax haven; it has no personal income tax (except for French citizens) and low business taxes. Over 30% of residents are millionaires, with real estate prices reaching €100,000 ($116,374) per square metre in 2018. Monaco is a global hub of money laundering, and in June 2024 the Financial Action Task Force placed Monaco under increased monitoring to combat money laundering and terrorist financing.
+>
+> Monaco is not part of the European Union (EU), but participates in certain EU policies, including customs and border controls. Through its relationship with France, Monaco uses the euro as its sole currency. Monaco joined the Council of Europe in 2004 and is a member of the Organisation internationale de la Francophonie (OIF). It hosts the annual motor race, the Monaco Grand Prix, one of the original Grands Prix of Formula One. The local motorsports association gives its name to the Monte Carlo Rally, hosted in January in the French Alps. The principality has a club football team, AS Monaco, which competes in French Ligue 1 and has been French champions on multiple occasions, as well as a basketball team, which plays in the EuroLeague. A centre of research into marine conservation, Monaco is home to one of the world's first protected marine habitats, an Oceanographic Museum, and the International Atomic Energy Agency Marine Environment Laboratories, the only marine laboratory in the UN structure.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Monaco) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Monaco/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Monaco|Monaco]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Monaco/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Monaco.public|Monaco.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Monaco/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Monaco.internal|Monaco.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Monaco/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Monaco.protect|Monaco.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Monaco/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Monaco.private|Monaco.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Monaco/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Monaco.personal|Monaco.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Monaco/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Monaco.secret|Monaco.secret]] 
 
