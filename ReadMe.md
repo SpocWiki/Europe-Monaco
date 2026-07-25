@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 摩纳哥公国
 dv_UNTERM_French_Formal: la Principauté de Monaco
 dv_UNTERM_Russian: Монако
 dv_UNTERM_Russian_Formal: Княжество Монако
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Monaco]]'
 dv_Sub-region_Name: '[[Western Europe]]'
 dv_Region: 150
@@ -51,7 +51,7 @@ dv_ISO2: MC
 dv_ISO3: MCO
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Monaco,235|WD~Monaco,235]]'
+  - '[[../../../../../WikiData/WD~Monaco,235|WD~Monaco,235]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~West/Monaco|Monaco]]'
   - '[[/_public/Earth/Continent/Europe/Europe~West/Monaco.public|Monaco.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~West/Monaco.internal|Monaco.internal]]'
@@ -359,16 +359,16 @@ dv_has_:
 dv_has_name_de: Monaco
 dv_Area-Total: 2
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: MC
 dv_Capital: '[[Monaco]]'
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 7.41
 dv_has_place_latitude: 43.715
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Monaco,235|WD~Monaco,235]]'
+- '[[../../../../../WikiData/WD~Monaco,235|WD~Monaco,235]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~West/Monaco|Monaco]]'
 - '[[/_public/Earth/Continent/Europe/Europe~West/Monaco.public|Monaco.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~West/Monaco.internal|Monaco.internal]]'
@@ -498,7 +498,7 @@ Languages:
 - it
 icon: flag-mc
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
 - '[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
@@ -527,7 +527,7 @@ anthem: '[[/_Standards/WikiData/WD~Hymne_monégasque,336321|WD~Hymne_monégasque
 patron_saint: '[[/_Standards/WikiData/WD~Devota,469978|WD~Devota,469978]]'
 executive_body: '[[/_Standards/WikiData/WD~Council_of_Government,593887|WD~Council_of_Government,593887]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
@@ -817,7 +817,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Monaco/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -837,7 +837,7 @@ defaultZoom: 7
 
 ```leaflet
 id: Monaco_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -858,7 +858,7 @@ darkMode: false
 [has_name_en::Monaco]
 has_name_de = `=this.dv_has_name_de`
 ![[Coat_of_arms_of_Monaco.svg|650]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3|Anthem-Montenegro.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Montenegro.mp3|Anthem-Montenegro.mp3]]
 ![[Flag_of_Monaco.svg|350]]
 
 Area-Total = `=this.dv_Area-Total`
